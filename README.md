@@ -53,3 +53,4 @@ Hacé que tu web sea más accesible y placentera para el usuario.
 - En la esquina superior izquierda agrega un logo o imagen que lleve a la seccion principal de tu pagina (ningun producto mostrandose, ninguna busqueda en la barra de navegacion, la seccion principal vacia sin tarjetas, quiza con un mensaje que invite al usuario a buscar)
 - Las tarjetas deben poder ser navegables con el teclado (puedo recorrer todas las tarjetas con `tab` y entrar al detalle de un producto con `enter`)
 - La web debe ser responsive. 
+- Agregar spinners de "cargando" toda vez que hagamos un fetch (preguntarme!!)
